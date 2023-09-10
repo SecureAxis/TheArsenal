@@ -3,7 +3,7 @@
 Welcome to **Client-side & Social Engineering Attacks** division at SecureAxis! In the world of cybersecurity, the human factor often remains the most unpredictable vulnerability.
 
 ## What's Inside:
-- **Malware & Ransomware Creators**: Toolsets for creating malicious software aimed at compromising the client-side system.
+- **Malware Creations**: Toolsets for creating malicious software aimed at compromising the client-side system.
 - **Phishing Toolkits**: Craft convincing phishing pages and campaigns.
 - **Document Exploits**: Payloads that target popular file formats.
 - **Browser Exploits**: Unearth vulnerabilities in popular web browsers.
